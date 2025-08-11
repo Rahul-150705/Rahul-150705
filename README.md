@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Bank Management System**
 
-- 🌱 I’m currently learning **Java Data Structure And Algorithm MYSQL**
+- 🌱 I’m currently learning **Data Structure Algorithm in Java & MYSQL**
 
 - 👯 I’m looking to collaborate on **Java OOP Learning Projects**
 
