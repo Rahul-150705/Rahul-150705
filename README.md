@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rahul P</h1>
 <h3 align="center">A Passionate Backend Developer</h3> 
 
-- 🔭 I’m currently working on **Bank Management System**
+- 🔭 I’m currently working on **LOW LEVEL DESIGN PROJECT**
 
 - 🌱 I’m currently learning **Data Structure Algorithm in Java & MYSQL**
 
