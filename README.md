@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Rahul P</h1>
-<h3 align="center">A Passionate Backend Developer</h3> 
+<h1 align="center">Hi , I'm Rahul P</h1>
+<h3 align="center">A Passionate Developer</h3> 
 
 - 🔭 I’m currently working on **LOW LEVEL DESIGN PROJECT**
 
-- 🌱 I’m currently learning **Data Structure Algorithm in Java & MYSQL**
+- 🌱 I’m currently learning **Data Structure Algorithm in Java & SQL**
 
 - 👯 I’m looking to collaborate on **Java OOP Learning Projects**
 
