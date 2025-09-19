@@ -27,9 +27,8 @@ Here are some ideas to get you started:
 
 
 <a href="https://github.com/user-attachments/assets/af6cf6de-3b25-4d95-be29-509bb4da5f89">
-  <p align="center">
-  <img src="https://github.com/user-attachments/assets/af6cf6de-3b25-4d95-be29-509bb4da5f89" alt="Banner" />
-  </p>
+<!--   <p align="center"> need to put an image or something -->
+<!--   </p> -->
 </a>
 
 <details>
