@@ -46,7 +46,7 @@
 - 💼 [LinkedIn](#)  
 - 📚 [LeetCode](https://leetcode.com/u/rahul1505/)  
 - 🏆 [HackerRank](https://www.hackerrank.com/profile/rahul_cd)  
-- 📧 Email: *add your email here*  
+- 📧 Email: rahu.cd23@bitsathy.ac.in 
 
 ---
 ⭐️ From [Rahul](https://github.com/rahul-150705)
