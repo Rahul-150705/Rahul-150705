@@ -11,7 +11,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Rahul-150705&label=Profile%20views&color=0e75b6&style=plastic" alt="Rahul-150705" /> </p>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0nishkumar&theme=algolia" alt="Rahul-150705"  /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-150705&theme=algolia" alt="Rahul-150705"  /></p>
 
 ## 🛠️ My Skills
 
