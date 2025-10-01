@@ -61,8 +61,6 @@
 ## 📊 GitHub Stats (Expand to View)
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
     ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-150705&show_icons=true&theme=radical)  
     ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=radical)  
     ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-150705&theme=radical)  
