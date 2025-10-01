@@ -1,52 +1,78 @@
-# Hi there, I'm Rahul 👋  
+<h1 align="center">Hi, I'm Rahul P <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer+at+Zoho;Full+Stack+Developer;AI%20|%20ML%20|%20Data%20Enthusiast;Always%20Learning%20and%20Growing&center=true&width=500&height=50"></a>
+</p>
+<hr/>
+<p align="center">
+  🌐 <a href="https://rahul-150705.github.io/portfolio/" target="_blank"><b>Visit My Portfolio</b></a>
+</p>
+<h4 align="center">I am a passionate developer with some knowledge in DSA and MySQL, aspiring to master backend development. I enjoy solving complex problems, coding, and exploring the latest trends in technology. I believe in lifelong learning and strive to contribute to impactful projects. Always up for challenges and eager to connect with like-minded professionals!</h4>
+<br>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=monishkumar4050&label=Profile%20views&color=0e75b6&style=plastic" alt="monishkumar4050" /> </p>
 
-![Profile Banner](https://via.placeholder.com/1200x300.png/000000/FFFFFF?text=Welcome+to+my+GitHub+Profile)
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=m0nishkumar&theme=algolia" alt="monishkumar4050"  /></p>
 
----
+## 🛠️ My Skills
 
-## 🚀 About Me  
-- 💻 Passionate about **Problem Solving, Full Stack Development, and Open Source**  
-- 🌱 Currently learning **Stack → Tree → Backtracking → Dynamic Programming → Graph**  
-- 🎯 Exploring **Object-Oriented Programming in Java** and building projects to strengthen concepts  
-- 👨‍💻 Actively solving **DSA problems on LeetCode & HackerRank**  
+### 👉 Programming Languages
+<p align="left"> 
+  &emsp; 
+  <a href="https://www.cprogramming.com/" target="_blank"> 
+    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
+    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
+  </a> 
+  &emsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
+     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
+   </a>
+  &emsp;
+  <a href="https://www.java.com" target="_blank"> 
+    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
+  </a>
+  &emsp;
+   <a href="https://www.python.org" target="_blank">
+    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+  </a>
+</p>
 
----
+### 👉 Databases & Cloud Hosting
+<p align="left">
+  &emsp;
+    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
+</p>
 
-## 🛠 Skills  
-- **Languages:** C, Java, Python, JavaScript  
-- **Frontend:** HTML, CSS, Bootstrap, Tailwind CSS, React  
-- **Backend:** Node.js, Spring Boot  
-- **Databases:** MySQL, MongoDB  
-- **Tools & Others:** Git, GitHub, VS Code  
+### 👉 Tools & Platforms
+<p>
+  &emsp;
+    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
+  &emsp;
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+  &emsp;
+</p>
 
----
+<br/>
 
-## 📂 Projects  
-- 🌐 [Portfolio Website](https://rahul-150705.github.io/portfolio/)  
-- ⚡ Internet Speed Test App (coming soon...)  
-- 📊 LeetCode Tracker & Reminder Tool (coming soon...)  
-- 📝 Feedback Form with Google Sheets (coming soon...)  
+## 📊 GitHub Stats (Expand to View)
+<details> 
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-150705&show_icons=true&theme=radical)  
+    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=radical)  
+    ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-150705&theme=radical)  
+</details>
 
----
+<br/>
 
-## 🤝 Open Source Contributions  
-- 📌 [PriorityQueueSort – TheAlgorithms/Java](https://github.com/TheAlgorithms/Java/pull/6532)  
-
----
-
-## 📊 GitHub Stats  
-
-![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-150705&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-150705&theme=radical)  
-
----
-
-## 🔗 Connect With Me  
-- 💼 [LinkedIn](#)  
-- 📚 [LeetCode](https://leetcode.com/u/rahul1505/)  
-- 🏆 [HackerRank](https://www.hackerrank.com/profile/rahul_cd)  
-- 📧 Email: rahu.cd23@bitsathy.ac.in 
-
----
-⭐️ From [Rahul](https://github.com/rahul-150705)
+## 🙋‍♂️ Let's Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-p-61a437291/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="mailto:rahulpalanisamy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://github.com/rahul-150705"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+</p>
