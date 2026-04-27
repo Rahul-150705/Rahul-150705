@@ -1,4 +1,4 @@
-# 👨‍💻 Rahul P — Exploring Computer Science, One System at a Time
+
 
 ```bash
 > whoami
