@@ -1,75 +1,155 @@
-<h1 align="center">Hi, I'm Rahul P <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+# 👨‍💻 Rahul P — Exploring Computer Science, One System at a Time
+
+```bash
+> whoami
+rahul_p — backend-leaning developer, interested in how systems work under the hood
+```
+
+---
+
+## 🧠 What Drives Me
+
+I'm deeply interested in how software systems **actually work**, not just how to use them.
+
+- 🔍 Why does a system scale (or fail)?
+- 📡 How does data move across services?
+- 🧹 What makes an API clean vs messy?
+- 🚀 How do real-world platforms handle millions of users?
+
+I enjoy breaking down problems and building solutions that are **structured, logical, and efficient.**
+
+---
+
+## ⚙️ Current Exploration
+
+```yaml
+focus:
+  - Data Structures & Algorithms
+  - System Design (LLD → HLD)
+  - Backend Development
+
+interests:
+  - Distributed systems basics
+  - Database design & query optimization
+  - API design patterns
+```
+
+---
+
+## 🧩 Tech Stack
+
+**Languages**
+
+```
+C / C++  → problem solving
+Java     → backend systems
+Python   → automation & AI workflows
+```
+
+**Backend**
+
+```
+Spring Boot
+REST APIs
+Authentication (JWT)
+```
+
+**Databases**
+
+```
+MySQL    → relational modeling
+MongoDB  → flexible data handling
+```
+
+**Tools**
+
+```
+Git · Postman · VS Code
+```
+
+---
+
+## 🏗️ Projects
+
+### 🧠 MockInterview.AI
+> AI-driven interview simulation platform
+
+- ✅ Resume-based dynamic question generation
+- ✅ Coding + design rounds
+- ✅ Structured feedback system
+
+---
+
+### 🔁 Renew AI — Insurance Automation
+> Streamlining insurance workflows with AI-powered PDF processing
+
+- ✅ Extract structured data from PDFs
+- ✅ Auto-fill forms using AI
+- ✅ Track policies and renewal timelines
+- ✅ Improve workflow efficiency for agents
+
+**How Renew AI Works (High-Level)**
+
+```
+[User Uploads PDF]
+        ↓
+[Backend — Spring Boot]
+        ↓
+[Text Extraction (PDF / OCR)]
+        ↓
+[LLM Processing (Ollama)]
+        ↓
+[Structured JSON Output]
+        ↓
+[Form Auto-Fill (React)]
+        ↓
+[User Review & Submit]
+```
+
+**Key Design Decisions:**
+- 🔀 Hybrid extraction → LLM + rule-based parsing
+- 🛡️ Validation layer to catch incorrect data
+- 📄 Designed for real-world messy PDFs
+
+---
+
+## 🧪 What I'm Actively Improving
+
+```
+✦ Writing cleaner, more maintainable code
+✦ Thinking in edge cases and constraints
+✦ Designing systems before implementing them
+✦ Understanding trade-offs in engineering decisions
+```
+
+---
+
+## 📊 GitHub Activity
+
+```sql
+SELECT curiosity, consistency, learning
+FROM developer_journey
+WHERE status = 'in_progress';
+```
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineer;BackEnd+Developer;Always%20Learning%20and%20Growing&center=true&width=500&height=50"></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=rahul-150705&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahul-150705&theme=tokyonight" alt="GitHub Streak"/>
 </p>
-<hr/>
+
+---
+
+## 📡 Connect
+
+```
+🔗 LinkedIn  →  linkedin.com/in/rahul-p-61a437291
+📧 Email     →  rahulpalanisamy@gmail.com
+🐙 GitHub    →  github.com/rahul-150705
+```
+
+---
+
 <p align="center">
-  🌐 <a href="//" target="_blank"><b>Visit My Portfolio</b></a>
-</p>
-<h4 align="center">I am a passionate developer with some knowledge in DSA and MySQL, aspiring to master backend development. I enjoy solving complex problems, coding, and exploring the latest trends in technology. I believe in lifelong learning and strive to contribute to impactful projects. Always up for challenges and eager to connect with like-minded professionals!</h4>
-<br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Rahul-150705&label=Profile%20views&color=0e75b6&style=plastic" alt="Rahul-150705" /> </p>
-
-## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-150705&theme=algolia" alt="Rahul-150705"  /></p>
-
-## 🛠️ My Skills
-
-### 👉 Programming Languages
-<p align="left"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"> 
-    <img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white">
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/cpp/" target="_blank"> 
-    <img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white">
-  </a> 
-
-  &emsp;
-  <a href="https://www.java.com" target="_blank"> 
-    <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
-  </a>
-  &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
-  </a>
-</p>
-
-### 👉 Databases & Cloud Hosting
-<p align="left">
-  &emsp;
-    <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white"></a>
-  &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%2347A248.svg?logo=mongodb&logoColor=white"></a>
-</p>
-
-### 👉 Tools & Platforms
-<p>
-  &emsp;
-    <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-  &emsp;
-</p>
-
-<br/>
-
-## 📊 GitHub Stats (Expand to View)
-<details> 
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-
-  ![Rahul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rahul-150705&show_icons=true&theme=radical)  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=radical)  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rahul-150705&theme=radical)  
-
-</details>
-
-<br/>
-
-## 🙋‍♂️ Let's Connect
-<p align="center">
-  <a href="https://www.linkedin.com/in/rahul-p-61a437291/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="mailto:rahulpalanisamy@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://github.com/rahul-150705"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <i>⚡ I enjoy understanding systems more than just using them.</i>
 </p>
