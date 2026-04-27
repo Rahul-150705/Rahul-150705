@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
-██████╗  █████╗ ██╗  ██╗██╗   ██╗██╗
-██╔══██╗██╔══██╗██║  ██║██║   ██║██║
-██████╔╝███████║███████║██║   ██║██║
-██╔══██╗██╔══██║██╔══██║██║   ██║██║
-██║  ██║██║  ██║██║  ██║╚██████╔╝███████╗
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+██████╗   █████╗  ██╗  ██╗  ██╗   ██╗  ██╗
+██╔══██╗ ██╔══██╗ ██║  ██║  ██║   ██║  ██║
+██████╔╝ ███████║ ███████║  ██║   ██║  ██║
+██╔══██╗ ██╔══██║ ██╔══██║  ██║   ██║  ██║
+██║  ██║ ██║  ██║ ██║  ██║  ╚██████╔╝  ███████╗
+╚═╝  ╚═╝ ╚═╝  ╚═╝ ╚═╝  ╚═╝   ╚═════╝   ╚══════╝
 ```
 
 ### `> backend developer` · `> systems thinker` · `> always building`
@@ -111,6 +111,28 @@ e1f2g3h  Weighing trade-offs like an engineer, not a coder
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </div>
+
+---
+
+## `./my-actual-workflow`
+
+```javascript
+while (building) {
+  if (stuck || lazy || curious || bored) {
+    ask(Claude);          // "write this for me"
+    ask(Claude);          // "now explain it"
+    ask(Claude);          // "now make it better"
+    ask(Claude);          // "now make it creative"
+    ask(Claude);          // "actually redo the whole thing"
+  }
+  ship(code);             // eventually...
+}
+```
+
+> 🤖 **Claude gets abused daily** — full Spring Boot services, SQL queries,  
+> system design breakdowns, debugging sessions, README rewrites...  
+> basically an unpaid co-developer at this point.  
+> No regrets. Maximum productivity. 🚀
 
 ---
 
