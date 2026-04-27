@@ -109,7 +109,7 @@ e1f2g3h  Weighing trade-offs like an engineer, not a coder
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul-150705&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&hide=c%2B%2B"/>
 </div>
 
 ---
